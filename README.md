@@ -7,7 +7,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="25" height="25"/>&nbsp;
   React • 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue" width="25" height="25"/>&nbsp;
-  Vue • Nuxt • Node.js
+  Vue • 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxt/nuxt-original.svg" title="Nuxt" alt="Nuxt" width="25" height="25"/>&nbsp;
+  Nuxt • 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="25" height="25"/>&nbsp;
+  Node.js
 </h1>
 
 <!--
