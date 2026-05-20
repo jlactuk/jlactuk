@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=JlaCTuK&fontSize=40&fontAlignY=40&animation=fadeIn" alt="Header" />
+</p>
+
+<h1 align="center" display="flex" align-items="center">
+  Full-Stack Разработчик | 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="25" height="25"/>&nbsp;
+  React • 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue" width="25" height="25"/>&nbsp;
+  Vue • Nuxt • Node.js
+</h1>
 
 <!--
 **jlactuk/jlactuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
